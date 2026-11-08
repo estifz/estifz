@@ -1,128 +1,106 @@
-# 👑 About Me:
-**`Full Stack Developer (ReactJS, NextJS, NodeJS, Flutter)`**
-
-I'm a full-stack developer who enjoys building end-to-end systems, from clean APIs and efficient databases to clean and responsive UIs.
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+  <img width="100%" src="assets/header.svg" alt="Hey, I'm Estif" />
+</p>
+
+# 👋 Hi there
+
+I'm a full-stack and backend engineer focused on architecting scalable cloud systems, building AI-driven applications, and designing end-to-end web and mobile solutions. Currently engineering backends at **Afriwork**.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kingestiff&color=10b981&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=estifz" width="1" height="1" alt="" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kingestiff&color=blue&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://portfolio-one-topaz-57.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://estif.dev" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://img.shields.io/badge/My%20Portfolio-32CD32?style=for-the-badge&logo=google-chrome&logoColor=white" 
+      src="https://img.shields.io/badge/My%20Portfolio-09090b?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMzRkMzk5IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMTIgMmExNC41IDE0LjUgMCAwIDAgMCAyME0xMiAyYTE0LjUgMTQuNSAwIDAgMSAwIDIwTTIgMTJoMjAiLz48L3N2Zz4%3D" 
       alt="Portfolio"
     />
   </a>
 
   <a href="mailto:estifanoszinabuabebe@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-09090b?style=for-the-badge&logo=gmail&logoColor=34d399" alt="Email"/>
   </a>
 
   <a href="https://www.linkedin.com/in/estif/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-09090b?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzM0ZDM5OSI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://medium.com/@estif" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Medium-09090b?style=for-the-badge&logo=medium&logoColor=34d399" alt="Medium"/>
   </a>
 
   <a href="https://t.me/stiv_o" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-09090b?style=for-the-badge&logo=telegram&logoColor=34d399" alt="Telegram"/>
   </a>
 
   <a href="https://leetcode.com/u/estifo/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-09090b?style=for-the-badge&logo=LeetCode&logoColor=34d399" alt="LeetCode"/>
   </a>
 </p>
 
-## 🔧 Technologies & Tools
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-      </a>
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" width="48" height="48" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
-      </a>
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
-      </a>
-      <br>Dart
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-      </a>
-      <br>PostgreSQL
-    </td>
-   <td align="center" width="96">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
-      </a>
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-  </tr>
+## 🚀 &nbsp;What I'm building
+
+<table border="1" width="100%">
+  <thead>
+    <tr>
+      <th width="32%" align="left"><h3>Project</h3></th>
+      <th width="68%" align="left"><h3>What it does</h3></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <h3><a href="https://github.com/estifz/Corestack">Corestack</a></h3>
+      </td>
+      <td valign="top">
+        <p><strong>Modular CLI scaffolder &amp; backend foundation</strong> for building scalable, secure, and fully-typed REST APIs with authentication and database presets.</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <h3><a href="https://github.com/estifz/cv-ranker">CVision</a></h3>
+      </td>
+      <td valign="top">
+        <p><strong>AI-powered resume screening platform</strong> that automatically parses and ranks candidates against job descriptions in real time to accelerate hiring.</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <h3><a href="https://github.com/estifz/Trailwatch">Trailwatch</a></h3>
+      </td>
+      <td valign="top">
+        <p><strong>Cinematic movie &amp; TV discovery web app</strong> featuring trailers, trending releases, and curated personalized recommendations in a modern UI.</p>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-## 📊 Stats
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Kingestif&show_icons=true&theme=github_dark)
+&nbsp;
 
-<!--## ✍️ Quote -->
-<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) -->
+## ✍️ &nbsp;Recent Writing
 
----
-[![](https://visitcount.itsvg.in/api?id=Kingestif&icon=0&color=0)](https://visitcount.itsvg.in)
+<h4>
+  • &nbsp;<a href="https://medium.com/@estif/vibe-coding-killed-the-dev-star-efd32f999cba" target="_blank" rel="noopener noreferrer">Vibe Coding Killed the Dev Star</a><br>
+  • &nbsp;<a href="https://medium.com/@estif/no-kubernetes-isnt-magic-the-truth-about-how-pods-are-scheduled-409453713bb8" target="_blank" rel="noopener noreferrer">No, Kubernetes Isn't Magic: The Truth About How Pods Are Scheduled</a><br>
+  • &nbsp;<a href="https://medium.com/@estif/from-monolith-to-microservices-what-i-wish-i-knew-before-starting-1031a146d8a0" target="_blank" rel="noopener noreferrer">From Monolith to Microservices: What I Wish I Knew Before Starting</a><br>
+  • &nbsp;<a href="https://medium.com/@estif/docker-vs-vms-why-developers-are-making-the-switch-0c9eeeaa9be0" target="_blank" rel="noopener noreferrer">Docker vs. VMs: Why Developers Are Making the Switch</a><br>
+  • &nbsp;<a href="https://medium.com/@estif/state-management-without-tears-understanding-redux-b53f74c20b82" target="_blank" rel="noopener noreferrer">State Management Without Tears: Understanding Redux</a>
+</h4>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="right">
+  <h4><a href="https://medium.com/@estif" target="_blank" rel="noopener noreferrer">Read more on Medium &rarr;</a></h4>
+</p>
+
+&nbsp;
+
+## 🧰 &nbsp;My toolbox
+
+[![My toolbox](https://skillicons.dev/icons?i=ts,js,python,nodejs,express,react,nextjs,tailwind,flutter,dart,postgres,mongodb,redis,graphql,docker,linux&perline=8)](https://skillicons.dev)
+
+&nbsp;
+
+## 📊 &nbsp;Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=estifz&theme=dark&background=09090b&border=27272a&ring=34d399&fire=34d399&currStreakLabel=34d399&sideLabels=a1a1aa&dates=71717a&currStreakNum=f4f4f5&sideNums=f4f4f5&stroke=27272a)
