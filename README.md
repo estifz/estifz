@@ -7,11 +7,6 @@
 I'm a full-stack and backend engineer focused on architecting scalable cloud systems, building AI-driven applications, and designing end-to-end web and mobile solutions. Currently engineering backends at **Afriwork**.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kingestiff&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
-  <img src="https://komarev.com/ghpvc/?username=estifz" width="1" height="1" alt="" />
-</p>
-
-<p align="center">
   <a href="https://estif.dev" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://img.shields.io/badge/My%20Portfolio-09090b?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMzhiZGY4IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMTIgMmExNC41IDE0LjUgMCAwIDAgMCAyME0xMiAyYTE0LjUgMTQuNSAwIDAgMSAwIDIwTTIgMTJoMjAiLz48L3N2Zz4%3D" 
@@ -104,3 +99,5 @@ I'm a full-stack and backend engineer focused on architecting scalable cloud sys
 ## 📊 &nbsp;Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=estifz&theme=dark&background=09090b&border=27272a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=a1a1aa&dates=71717a&currStreakNum=f4f4f5&sideNums=f4f4f5&stroke=27272a)
+
+<img src="https://komarev.com/ghpvc/?username=Kingestiff" width="1" height="1" alt="" /><img src="https://komarev.com/ghpvc/?username=estifz" width="1" height="1" alt="" />
