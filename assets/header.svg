@@ -18,7 +18,7 @@
     <linearGradient id="border" x1="0" x2="1" y1="0" y2="1">
       <stop offset="0" stop-color="#ffffff" stop-opacity=".14"/>
       <stop offset=".5" stop-color="#ffffff" stop-opacity=".06"/>
-      <stop offset="1" stop-color="#10b981" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#0ea5e9" stop-opacity=".35"/>
     </linearGradient>
     <clipPath id="card"><rect width="960" height="320" rx="20"/></clipPath>
   </defs>
@@ -58,14 +58,14 @@
   <g clip-path="url(#card)">
     <rect width="960" height="320" fill="#09090b"/>
     <circle class="orb1" cx="180" cy="80" r="150" fill="#ffffff" opacity=".10" filter="url(#blur)"/>
-    <circle class="orb2" cx="820" cy="260" r="170" fill="#10b981" opacity=".16" filter="url(#blur)"/>
+    <circle class="orb2" cx="820" cy="260" r="170" fill="#0ea5e9" opacity=".16" filter="url(#blur)"/>
     <rect width="960" height="320" fill="url(#grid)" mask="url(#gridMask)"/>
   </g>
   <rect x=".5" y=".5" width="959" height="319" rx="20" fill="none" stroke="url(#border)"/>
 
   <g class="rise">
     <rect x="48" y="40" width="226" height="32" rx="16" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".1"/>
-    <circle class="dot" cx="66" cy="56" r="4" fill="#10b981"/>
+    <circle class="dot" cx="66" cy="56" r="4" fill="#38bdf8"/>
     <text x="80" y="61" class="mono" font-size="13" fill="#d4d4d8">open to projects · ET</text>
   </g>
 
@@ -75,11 +75,11 @@
 
   <g class="rise r3 mono" font-size="20">
     <text x="48" y="222" fill="#71717a">~</text>
-    <text x="66" y="222" fill="#34d399">❯</text>
+    <text x="66" y="222" fill="#38bdf8">❯</text>
     <g fill="#f4f4f5">
-      <text class="line" x="92" y="222">Engineering scalable backends<tspan class="cursor" fill="#34d399"> ▌</tspan></text>
-      <text class="line l2" x="92" y="222">Building AI applications<tspan class="cursor" fill="#34d399"> ▌</tspan></text>
-      <text class="line l3" x="92" y="222">Architecting cloud infrastructure<tspan class="cursor" fill="#34d399"> ▌</tspan></text>
+      <text class="line" x="92" y="222">Engineering scalable backends<tspan class="cursor" fill="#38bdf8"> ▌</tspan></text>
+      <text class="line l2" x="92" y="222">Building AI applications<tspan class="cursor" fill="#38bdf8"> ▌</tspan></text>
+      <text class="line l3" x="92" y="222">Architecting cloud infrastructure<tspan class="cursor" fill="#38bdf8"> ▌</tspan></text>
     </g>
   </g>
 
@@ -89,9 +89,9 @@
     <text x="890" y="82" text-anchor="end" class="mono" font-size="11" fill="#71717a">~/projects</text>
     <line x1="640" y1="96" x2="912" y2="96" stroke="#ffffff" stroke-opacity=".08"/>
     <g class="mono" font-size="14" fill="#d4d4d8">
-      <circle cx="664" cy="121" r="4" fill="#34d399"/><text x="680" y="126">Corestack</text>
-      <circle cx="664" cy="153" r="4" fill="#34d399"/><text x="680" y="158">CVision</text>
-      <circle cx="664" cy="185" r="4" fill="#34d399"/><text x="680" y="190">Trailwatch</text>
+      <circle cx="664" cy="121" r="4" fill="#38bdf8"/><text x="680" y="126">Corestack</text>
+      <circle cx="664" cy="153" r="4" fill="#38bdf8"/><text x="680" y="158">CVision</text>
+      <circle cx="664" cy="185" r="4" fill="#38bdf8"/><text x="680" y="190">Trailwatch</text>
     </g>
   </g></g>
 
