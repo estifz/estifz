@@ -9,29 +9,30 @@ I'm a full-stack and backend engineer focused on architecting scalable cloud sys
 <p align="center">
   <a href="https://estif.dev" target="_blank" rel="noopener noreferrer">
     <img 
+      height="35"
       src="https://img.shields.io/badge/My%20Portfolio-09090b?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMzhiZGY4IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMTIgMmExNC41IDE0LjUgMCAwIDAgMCAyME0xMiAyYTE0LjUgMTQuNSAwIDAgMSAwIDIwTTIgMTJoMjAiLz48L3N2Zz4%3D" 
       alt="Portfolio"
     />
   </a>
 
   <a href="mailto:estifanoszinabuabebe@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-09090b?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Email"/>
+    <img height="35" src="https://img.shields.io/badge/Gmail-09090b?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Email"/>
   </a>
 
   <a href="https://www.linkedin.com/in/estif/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-09090b?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzM4YmRmOCI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/>
+    <img height="35" src="https://img.shields.io/badge/LinkedIn-09090b?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzM4YmRmOCI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/>
   </a>
 
   <a href="https://medium.com/@estif" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Medium-09090b?style=for-the-badge&logo=medium&logoColor=38bdf8" alt="Medium"/>
+    <img height="35" src="https://img.shields.io/badge/Medium-09090b?style=for-the-badge&logo=medium&logoColor=38bdf8" alt="Medium"/>
   </a>
 
   <a href="https://t.me/stiv_o" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Telegram-09090b?style=for-the-badge&logo=telegram&logoColor=38bdf8" alt="Telegram"/>
+    <img height="35" src="https://img.shields.io/badge/Telegram-09090b?style=for-the-badge&logo=telegram&logoColor=38bdf8" alt="Telegram"/>
   </a>
 
   <a href="https://leetcode.com/u/estifo/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LeetCode-09090b?style=for-the-badge&logo=LeetCode&logoColor=38bdf8" alt="LeetCode"/>
+    <img height="35" src="https://img.shields.io/badge/LeetCode-09090b?style=for-the-badge&logo=LeetCode&logoColor=38bdf8" alt="LeetCode"/>
   </a>
 </p>
 
