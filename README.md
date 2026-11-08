@@ -79,16 +79,16 @@ I enjoy solving complex architectural challenges, optimizing distributed service
 
 ## ✍️ &nbsp;Recent Writing
 
-<h3>
+<h4>
   • &nbsp;<a href="https://medium.com/@estif/vibe-coding-killed-the-dev-star-efd32f999cba" target="_blank" rel="noopener noreferrer">Vibe Coding Killed the Dev Star</a><br><br>
   • &nbsp;<a href="https://medium.com/@estif/no-kubernetes-isnt-magic-the-truth-about-how-pods-are-scheduled-409453713bb8" target="_blank" rel="noopener noreferrer">No, Kubernetes Isn't Magic: The Truth About How Pods Are Scheduled</a><br><br>
   • &nbsp;<a href="https://medium.com/@estif/from-monolith-to-microservices-what-i-wish-i-knew-before-starting-1031a146d8a0" target="_blank" rel="noopener noreferrer">From Monolith to Microservices: What I Wish I Knew Before Starting</a><br><br>
   • &nbsp;<a href="https://medium.com/@estif/docker-vs-vms-why-developers-are-making-the-switch-0c9eeeaa9be0" target="_blank" rel="noopener noreferrer">Docker vs. VMs: Why Developers Are Making the Switch</a><br><br>
   • &nbsp;<a href="https://medium.com/@estif/state-management-without-tears-understanding-redux-b53f74c20b82" target="_blank" rel="noopener noreferrer">State Management Without Tears: Understanding Redux</a>
-</h3>
+</h4>
 
 <p align="right">
-  <h3><a href="https://medium.com/@estif" target="_blank" rel="noopener noreferrer">Read more on Medium &rarr;</a></h3>
+  <h4><a href="https://medium.com/@estif" target="_blank" rel="noopener noreferrer">Read more on Medium &rarr;</a></h4>
 </p>
 
 &nbsp;
