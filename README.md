@@ -6,6 +6,8 @@
 
 I'm a full-stack and backend engineer focused on architecting scalable cloud systems, building AI-driven applications, and designing end-to-end web and mobile solutions. Currently engineering backends at **Afriwork**.
 
+I enjoy solving complex architectural challenges, optimizing distributed services, and crafting developer tooling with clean abstractions. When I'm not writing production code, you'll find me sharing technical insights on Medium or experimenting with modern AI workflows.
+
 <p align="center">
   <a href="https://estif.dev" target="_blank" rel="noopener noreferrer">
     <img 
